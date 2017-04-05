@@ -1,0 +1,21 @@
+body{
+	min-height: 1000px;
+}
+
+.nav{
+	position: fixed;
+	right: 0;
+}
+.nav ul{
+	padding: 0;
+	list-style: none;
+	font-size: 0;
+}
+
+.nav ul li{
+	background: #f4f5f6;
+	display: inline-block;
+	padding: 10px;
+	vertical-align: middle;
+	font-size: 1rem;
+}
